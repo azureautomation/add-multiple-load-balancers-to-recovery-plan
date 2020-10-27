@@ -1,0 +1,20 @@
+{
+    "Author": "Ruturaj Dhekane",
+    "ContentSize": 5735,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/add-multiple-load-balancers-to-recovery-plan/master/ASR-AddMultipleLoadBalancers.ps1",
+    "DownloadCount": 1115,
+    "Id": "Add-multiple-load-31a99205",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 253,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-11-6T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This runbook will attach an existing load balancer to the vNics of the virtual machines, in the Recovery Plan during failover.",
+    "Title": "Add multiple load balancers to recovery plan",
+    "UpdatedDate": "2017-11-6T00:00:00",
+    "Url": "https://github.com/azureautomation/add-multiple-load-balancers-to-recovery-plan",
+    "UserTags": "Disaster Recovery, Azure Site Recovery, ASR"
+}
